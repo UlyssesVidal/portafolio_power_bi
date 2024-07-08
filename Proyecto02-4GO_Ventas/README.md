@@ -1,4 +1,4 @@
-# Mi segundo informe en Power BI+
+# Mi segundo informe en Power BI
 
 ## Explicación
 

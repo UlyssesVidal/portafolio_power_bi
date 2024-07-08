@@ -14,4 +14,5 @@ El tablero de Recursos Humanos proporciona información sobre el personal contra
 - **Empleados activos por departamento**: El departamento de Logística tiene la mayor cantidad de empleados activos (34), seguido de Administrativa (32) y Comercial (14).
 
 En conclusión, este tablero proporciona una instantánea del personal de la empresa, incluidos los contratados recientemente, los empleados activos, la rotación y la distribución por departamento, ciudad y género.
+
 ![alt text](image.png)
