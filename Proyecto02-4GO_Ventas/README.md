@@ -1,4 +1,4 @@
-# Mi segundo informe en Power BI
+# Mi segundo informe en Power BI - 4GO
 
 ## Explicación
 
@@ -14,4 +14,4 @@ El tablero de ventas proporciona información sobre las ventas totales, el costo
 
 En conclusión, este tablero proporciona una visión general del rendimiento de ventas de la empresa durante los últimos cinco años. Las ventas totales han aumentado y la marca Infinitex ha sido la líder en ventas. América del Norte y Europa son los continentes con mayores ventas, y el queso brie es el producto más vendido.
 
-![alt text](image-2.png)
+![alt text](image-1.png)
