@@ -1,0 +1,208 @@
+Nombre de los miembros;ID;Salario-Cargo;Fecha Nacimiento;Edad;Sexo;Fecha de contratación;Fecha salida;Status do Integrante;Departamento;Reclutamiento de fuentes;Registro de desempeño;Índice de satisfacción
+Isis;A1304055947;5060-Técnico de Producción I;21-05-82; 38 ;F;01-09-15;;Ativo;dpt1;Página Web compañía;Arriba;5
+Emanuel;A1109029366;3520-Técnico de Producción I;21-12-75; 45 ;M;03-02-15;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Vinícius;A1501072124;4400-Técnico de Producción I;17-04-72; 49 ;M;06-07-17;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;2
+João Guilherme;A1302053339;3960-Técnico de Producción I;17-10-94; 26 ;M;04-11-18;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;4
+Luna;A1204032927;3520-Técnico de Producción I;04-08-85; 35 ;F;28-09-17;;Ativo;dpt1;Feria de contratación;Arriba;4
+Rebeca;A1404066622;4400-Técnico de Producción I;04-02-79; 42 ;F;04-12-17;;Ativo;dpt1;Sitio web de empleo;Arriba;4
+Maria;A1205033102;3300-Técnico de Producción I;23-08-90; 30 ;F;18-08-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Catarina;A1308060366;3520-Técnico de Producción I;08-01-94; 27 ;F;06-07-17;;Ativo;dpt1;Feria de contratación;Arriba;3,1
+Luiz Miguel;A1407069280;5445-Técnico de Producción I;25-08-85; 35 ;M;07-06-19;;Ativo;dpt1;Recomendación empleados;Arriba;4
+Clara;A1209048696;4840-Técnico de Producción I;11-02-83; 38 ;F;30-06-16;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;3
+Ana Beatriz;A1006020020;5280-Técnico de Producción I;15-03-86; 35 ;F;01-09-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;5
+Vitória;A1408069882;3520-Técnico de Producción I;27-01-96; 25 ;F;18-08-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Kaique;A1311062610;4620-Técnico de Producción I;31-01-85; 36 ;M;30-09-14;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Olívia;A1308060754;5060-Técnico de Producción I;10-07-79; 41 ;F;10-11-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+João Gabriel;A1011022887;3740-Técnico de Producción I;27-01-90; 31 ;M;06-08-16;;Ativo;dpt1;Recomendación empleados;Arriba;5
+Emilly;A1410071137;3520-Técnico de Producción I;19-07-73; 47 ;F;19-02-15;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;2
+Maria Valentina;A1409070255;5280-Técnico de Producción I;04-05-72; 49 ;F;18-02-16;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;5
+Levi;A1599991009;3300-Técnico de Producción I;08-08-82; 38 ;M;06-08-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Larissa;A1202031618;3685-Técnico de Producción I;09-07-91; 29 ;F;03-02-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Yuri;A1309061015;4180-Técnico de Producción I;14-09-90; 30 ;M;29-03-18;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Enrico;A1106026579;3300-Técnico de Producción I;19-05-84; 36 ;M;06-02-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;3
+Mirella;A1201031438;4400-Técnico de Producción I;08-11-77; 43 ;F;11-05-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Thiago;A1304055987;3740-Técnico de Producción I;11-09-91; 29 ;M;07-09-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Maria Flor;A1401064327;4400-Técnico de Producción I;21-11-82; 38 ;F;30-05-14;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;4
+Lívia;A1203032357;4180-Técnico de Producción I;06-07-89; 31 ;F;06-08-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Ian;A1001735072;3740-Técnico de Producción I;22-11-86; 34 ;M;10-05-10;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Ana Sophia;A710007555;3740-Técnico de Producción I;11-05-79; 42 ;F;31-05-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Pietra;A1012023152;4840-Técnico de Producción I;14-05-88; 33 ;F;16-02-17;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;3
+Maria Vitória;A1211051232;3300-Técnico de Producción I;16-08-83; 37 ;F;28-09-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Maya;A1011022883;4620-Técnico de Producción I;26-09-93; 27 ;F;01-07-11;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;5
+Laís;A1403066194;4840-Técnico de Producción I;26-10-75; 45 ;F;03-04-14;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Ayla;A1305057282;4290-Técnico de Producción I;30-11-84; 36 ;F;04-12-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Ana Lívia;A1001109612;3300-Técnico de Producción I;10-05-83; 38 ;F;06-02-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;3
+Victor Hugo;A1406068241;4620-Técnico de Producción I;08-02-87; 34 ;M;14-05-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Gabrielly;A1102024121;3300-Técnico de Producción I;06-07-89; 31 ;F;04-01-16;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Carolina;A1302053362;4620-Técnico de Producción I;06-10-93; 27 ;F;28-09-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Maria Laura;A1407069061;3080-Técnico de Producción I;14-08-73; 47 ;F;14-05-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Henry;A1101023679;3687-Técnico de Producción I;18-07-88; 32 ;M;19-02-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Luiz Felipe;A1311063114;4400-Técnico de Producción I;01-02-88; 33 ;M;30-03-17;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;3
+Maria Sophia;A1403066069;3465-Técnico de Producción I;30-03-82; 39 ;F;30-04-18;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;5
+Ryan;A1007020403;4675-Técnico de Producción I;30-05-79; 41 ;M;10-10-17;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;5
+Arthur Miguel;A1101023612;4620-Técnico de Producción I;24-08-83; 37 ;M;30-03-17;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Fernanda;A1105026041;5280-Técnico de Producción I;11-02-88; 33 ;F;15-05-14;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Analu;A1412071713;4180-Técnico de Producción I;12-04-69; 52 ;F;31-05-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Nathan;A1404066949;3520-Técnico de Producción I;11-11-81; 39 ;M;29-09-16;;Ativo;dpt1;Feria de contratación;Arriba;2
+Pedro Lucas;A1401064562;3520-Técnico de Producción I;18-06-66; 54 ;M;31-05-17;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Davi Miguel;A1106026896;4840-Técnico de Producción I;13-03-90; 31 ;M;16-02-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Raul;A1301052124;4840-Técnico de Producción I;17-02-88; 33 ;M;29-09-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;4
+Louise;A1412071844;4840-Técnico de Producción I;26-12-63; 53 ;F;18-08-16;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;3
+Heloise;A1012023295;4840-Técnico de Producción I;30-05-93; 27 ;F;09-03-14;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Pedro Miguel;A706006285;4620-Técnico de Producción I;14-11-87; 33 ;M;04-12-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Ana Vitória;A803009012;5060-Técnico de Producción I;05-10-91; 29 ;F;19-02-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Ana Cecília;A1408069539;3740-Técnico de Producción I;17-06-97; 23 ;F;10-11-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Luiz Henrique;A1002017900;4180-Técnico de Producción I;31-03-89; 32 ;M;13-08-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Luan;A1304055683;3080-Técnico de Producción I;10-10-82; 38 ;M;16-02-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Ana Liz;A1209049259;3740-Técnico de Producción I;06-07-91; 29 ;F;31-05-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Liz;A1307059944;3740-Técnico de Producción I;22-09-78; 42 ;F;25-04-13;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Samuel;A1501071909;5390-Técnico de Producción I;01-02-70; 51 ;F;10-11-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Rodrigo;A1104025414;3960-Técnico de Producción I;17-04-85; 36 ;M;06-08-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;4
+Ana Sophia S.;A1503072857;4620-Técnico de Producción I;21-03-71; 50 ;F;29-09-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Pietra S.;A909015167;5280-Técnico de Producción I;29-06-92; 28 ;F;30-06-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Ayla S.;A1111030244;3080-Técnico de Producción I;24-08-87; 33 ;F;30-09-14;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;4
+Breno;A1409070522;4400-Técnico de Producción I;05-10-88; 32 ;M;06-05-14;;Ativo;dpt1;Página Web compañía;Arriba;5
+Ana Lívia S.;A1208048062;3520-Técnico de Producción I;31-01-56; 52 ;F;28-09-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Eduarda S.;A1311063172;4345-Técnico de Producción I;02-10-92; 28 ;F;07-06-19;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Mariah S.;A1501072192;4180-Técnico de Producción I;09-01-95; 26 ;F;29-03-18;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Stella S.;A1405067064;5280-Técnico de Producción I;22-03-82; 39 ;F;27-11-14;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;4
+Arthur Henrique;A1301052462;4180-Técnico de Producción I;17-01-81; 40 ;M;29-09-16;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Gabrielly S.;A1109029256;4400-Técnico de Producción I;21-09-81; 39 ;F;29-03-18;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Luiz Otávio;A1103024335;4840-Técnico de Producción I;22-11-84; 36 ;M;16-02-17;;Ativo;dpt1;Página Web compañía;Abajo de lo esperado;3
+Lucas Gabriel;A1201031310;4180-Técnico de Producción I;09-07-87; 33 ;M;30-04-18;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Sophie S.;A1106026474;4400-Técnico de Producción I;03-06-90; 30 ;F;06-05-18;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+José;A1111030129;4840-Técnico de Producción I;22-08-88; 32 ;M;06-08-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Sofia A;A1405067642;4840-Técnico de Producción I;30-11-78; 42 ;F;27-11-14;;Ativo;dpt1;Sitio web de empleo;Arriba;5
+Francisco;A1411071212;3520-Técnico de Producción I;28-09-74; 46 ;M;06-11-14;;Ativo;dpt1;Feria de contratación;Arriba;4
+Maria Fernanda;A1403066020;3300-Técnico de Producción I;04-03-72; 49 ;F;04-01-16;;Ativo;dpt1;Feria de contratación;Arriba;3,5
+Aurora;A1410070998;4400-Técnico de Producción I;05-06-73; 47 ;F;07-04-19;;Ativo;dpt1;Página Web compañía;Abajo de lo esperado;4
+Ana Laura;A1212051409;4840-Técnico de Producción I;01-11-75; 45 ;F;06-06-12;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Ana;A1101023353;4400-Técnico de Producción I;20-10-80; 40 ;F;15-02-18;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Erick;A1302053044;4620-Técnico de Producción I;03-08-82; 38 ;M;04-12-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Mirella S.;A1408069635;4400-Técnico de Producción I;29-10-74; 46 ;F;10-11-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Allana S.;A1312063675;5280-Técnico de Producción I;09-09-79; 41 ;F;18-08-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+André;A1110029777;3740-Técnico de Producción I;02-06-84; 36 ;M;06-08-16;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Pietra Conte;A807010161;3344-Técnico de Producción I;01-10-80; 40 ;F;29-09-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Isabella;A1403065721;5400-Analista Comercial I;13-05-68; 53 ;F;17-08-17;;Ativo;dpt2;Página Web compañía;Dentro de lo esperado;5
+Manuela;A1408069481;5400-Analista Comercial I;12-05-92; 29 ;F;19-02-15;;Ativo;dpt2;Página Web compañía;Abajo de lo esperado;1
+Bernardo;A1306059197;4250-Analista Comercial I;13-09-93; 27 ;M;17-08-17;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Heitor;A1204032843;4250-Analista Comercial I;23-02-74; 47 ;M;02-07-14;;Ativo;dpt2;Feria de contratación;Dentro de lo esperado;5
+Davi;A1411071481;5400-Analista Comercial I;09-12-59; 52 ;M;04-12-17;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;3
+Théo;A1412071660;5400-Analista Comercial I;26-12-93; 27 ;M;30-04-15;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;3
+Pedro;A1306057978;5500-Analista Comercial I;10-02-80; 41 ;M;28-09-17;;Ativo;dpt2;Página Web compañía;Abajo de lo esperado;3
+Gabriel;A812011761;5400-Analista Comercial I;18-05-87; 34 ;M;30-04-18;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Heloísa;A1411071295;5350-Analista Comercial I;04-12-94; 26 ;F;26-09-13;;Ativo;dpt2;Feria de contratación;Dentro de lo esperado;4
+Luiza;A1312063714;7500-Analista Comercial II;21-05-96; 24 ;F;06-05-14;;Ativo;dpt2;Feria de contratación;Dentro de lo esperado;3
+Enzo;A1111030503;7500-Analista Comercial II;06-11-94; 26 ;M;03-05-15;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;4
+Matheus;A1504073313;7500-Analista Comercial II;05-07-80; 40 ;M;28-09-17;;Ativo;dpt2;Recomendación empleados;Dentro de lo esperado;5
+Maria Luiza;A1409070567;8600-Analista Comercial II;10-08-93; 27 ;F;30-09-14;;Ativo;dpt2;Feria de contratación;Arriba;5
+Lucas;A1411071302;8600-Analista Comercial II;26-08-68; 52 ;M;08-06-14;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;3
+Lorena;A1203032099;8600-Analista Comercial II;21-09-94; 26 ;F;15-02-18;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Benjamin;A1203038888;8600-Analista Comercial II;04-09-79; 41 ;M;04-12-17;;Ativo;dpt2;Página Web compañía;Abajo de lo esperado;2
+Nicolas;A1104025008;8000-Analista Comercial II;25-11-84; 36 ;M;18-08-16;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Guilherme;A1209048771;8600-Analista Comercial II;05-11-75; 45 ;M;14-05-15;;Ativo;dpt2;Recomendación empleados;Dentro de lo esperado;5
+Rafael;A1209049326;8000-Analista Comercial II;05-01-89; 32 ;M;07-06-19;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;4
+Lívia;A1111030684;8000-Analista Comercial II;30-03-94; 27 ;F;06-08-16;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Giovanna;A1501072180;10000-Analista Comercial III;04-11-95; 25 ;F;29-09-16;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;3
+Maria Eduarda;A1102024106;10500-Analista Comercial III;28-08-93; 27 ;F;01-09-15;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;5
+Joaquim;A1502072711;11200-Analista Comercial III;13-01-73; 48 ;M;31-08-09;;Ativo;dpt2;Página Web compañía;Arriba;3
+Beatriz;A1401064637;10250-Analista Comercial III;04-07-70; 50 ;F;28-09-17;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;3
+Ana Clara;A1006020066;13200-Director de Producción;17-03-88; 33 ;F;30-04-12;;Ativo;dpt1;Feria de contratación;Arriba;5
+Melissa;A1009021646;13200-Diretor Comercial;16-03-71; 50 ;F;04-05-17;;Ativo;dpt2;Página Web compañía;Dentro de lo esperado;4
+Antonella;A1001495124;17600-Diretor Administrativo;20-09-59; 52 ;F;06-02-15;;Ativo;dpt3;Sitio web de empleo;Dentro de lo esperado;3
+João;A1501072311;11990-Gerente de Producción;09-10-73; 47 ;M;07-01-14;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Antônio;A1110029990;12100-Gerente de Producción;06-09-88; 32 ;M;27-01-19;;Ativo;dpt1;Sitio web de empleo;Arriba;2,8
+Rafaela;A1409070147;11220-Gerente de Producción;27-11-78; 42 ;F;17-09-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Vicente;A1307060077;11880-Gerente de Producción;06-11-86; 34 ;M;05-02-18;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Maria Cecília;A1103024679;12100-Gerente de Producción;25-10-86; 34 ;F;29-09-16;;Ativo;dpt1;Sitio web de empleo;Arriba;3
+Bento;A1107027351;11660-Gerente de Producción;07-10-86; 34 ;M;16-08-15;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Marina;A1102024149;11440-Gerente de Producción;28-09-80; 40 ;F;09-02-15;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Caio;A1000974650;11660-Gerente de Producción;15-12-80; 40 ;M;19-07-13;;Ativo;dpt1;Página Web compañía;Abajo de lo esperado;2
+Lucas Gabriel;A1405067298;12100-Gerente de Producción;27-03-83; 38 ;F;31-07-12;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;4
+Joana P.;A1011022820;5500-Técnico de Producción II;01-02-85; 36 ;F;03-05-15;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;4
+Maria- da M.;A1306057810;5500-Técnico de Producción II;08-08-74; 46 ;F;06-07-17;;Ativo;dpt1;Feria de contratación;Arriba;3
+Gabriela da M.;A1103024843;5720-Técnico de Producción II;01-10-84; 36 ;F;03-02-15;;Ativo;dpt1;Página Web compañía;Dentro de lo esperado;3
+Ana Laura da M.;A1001549006;5335-Técnico de Producción II;24-05-91; 29 ;F;04-12-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Marcelo R;A1404066711;5940-Técnico de Producción II;16-08-97; 23 ;M;10-07-14;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Ana Beatriz da M.;A1205033180;4840-Técnico de Producción II;19-04-90; 31 ;F;28-09-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Olívia da M.;A1108028428;5940-Técnico de Producción II;21-09-83; 37 ;F;06-07-17;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Maria Fernanda da M.;A1106026433;5500-Técnico de Producción II;02-11-89; 31 ;F;06-06-19;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Emilly da M.;A1001504432;5742-Técnico de Producción II;27-03-87; 34 ;F;18-08-16;;Ativo;dpt1;Sitio web de empleo;Arriba;4
+Maria Valentina da M.;A1104025435;5806-Técnico de Producción II;22-11-90; 30 ;F;10-10-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Samuel;A1001970770;4840-Técnico de Producción II;28-10-68; 52 ;M;28-09-17;;Ativo;dpt1;Sitio web de empleo;Arriba;3
+Maria Helena da M.;A1303054329;5940-Técnico de Producción II;16-04-71; 50 ;F;21-07-19;;Ativo;dpt1;Recomendación empleados;Arriba;3
+Pedro Miguel G.;A1307059937;5280-Técnico de Producción II;07-10-93; 27 ;M;10-11-16;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Luiz Henrique G.;A1405067565;4840-Técnico de Producción II;17-03-84; 37 ;M;06-08-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Luan B.;A1408069503;5720-Técnico de Producción II;11-03-81; 40 ;M;01-09-15;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;4
+Erick C.;A1106026462;6380-Técnico de Producción II;25-04-91; 30 ;M;29-08-13;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;3
+Martin da Silva;A1301052449;5720-Técnico de Producción II;18-08-82; 38 ;M;03-04-14;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Maria Flor da M.;A1008020942;4950-Técnico de Producción II;10-06-91; 29 ;F;06-05-14;;Ativo;dpt1;Página Web compañía;Arriba;4
+Allana da M.;A1406067957;5720-Técnico de Producción II;19-05-92; 28 ;F;29-03-18;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;5
+Bruno M.;A1011022818;4840-Técnico de Producción II;01-10-81; 39 ;M;17-08-17;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Rodrigo Z.;A1201031274;5500-Técnico de Producción II;12-09-84; 36 ;M;10-07-14;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Mariana P.;A1108028351;5940-Técnico de Producción II;10-08-88; 32 ;F;29-09-16;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;5
+Maria da Cruz;A1001103149;5500-Técnico de Producción II;23-04-75; 46 ;F;12-05-16;;Ativo;dpt1;Página Web compañía;Arriba;2,5
+Breno M.;A1012023010;5335-Técnico de Producción II;04-11-90; 30 ;M;06-07-17;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;4
+Jeniffer S.;A1403066125;5940-Técnico de Producción II;20-09-95; 25 ;F;03-04-14;;Ativo;dpt1;Página Web compañía;Abajo de lo esperado;3
+Jazz;A1105025661;5280-Técnico de Producción II;24-08-94; 26 ;F;06-07-17;;Ativo;dpt1;Sitio web de empleo;Abajo de lo esperado;1
+Kauê M.;A1301052436;6380-Técnico de Producción II;11-01-79; 42 ;M;12-05-16;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;5
+Enzo Miguel M.;A1101023457;4840-Técnico de Producción II;26-07-88; 32 ;M;28-09-17;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Eliana C.;A1402065085;5280-Técnico de Producción II;25-09-92; 28 ;F;16-02-17;;Ativo;dpt1;Sitio web de empleo;Dentro de lo esperado;4
+Marta J.;A1103024924;6160-Técnico de Producción II;04-07-97; 23 ;F;05-05-18;;Ativo;dpt1;Feria de contratación;Dentro de lo esperado;3
+Leticia M.;A1110029623;5060-Técnico de Producción II;24-08-81; 39 ;F;05-08-19;;Ativo;dpt1;Recomendación empleados;Dentro de lo esperado;3
+Alice R.;A1402065303;11880-Gerente Comercial;18-04-95; 26 ;F;04-05-17;;Ativo;dpt2;Sitio web de empleo;Dentro de lo esperado;4
+Samuel;A1499902910;12320-Gerente Comercial;15-08-89; 31 ;M;17-05-17;;Ativo;dpt2;Sitio web de empleo;Abajo de lo esperado;3
+Tomás M.;A1102024115;12100-Gerente Administrativo;05-10-89; 31 ;M;01-05-19;;Ativo;dpt3;Sitio web de empleo;Dentro de lo esperado;4
+Alice;A1103024456;6270-Contador I;22-11-92; 28 ;F;27-10-11;;Ativo;dpt3;Feria de contratación;Dentro de lo esperado;2
+Miguel;A1106026572;5060-Contador I;25-04-89; 32 ;M;31-05-17;;Ativo;dpt3;Sitio web de empleo;Dentro de lo esperado;4
+Arthur;A1302053333;6380-Contador I;08-01-91; 30 ;M;28-09-17;;Ativo;dpt3;Sitio web de empleo;Dentro de lo esperado;5
+Helena;A1307059817;3643-Asistente Administrativo;18-05-93; 27 ;F;04-01-18;;Ativo;dpt3;Sitio web de empleo;Dentro de lo esperado;3
+Maria Clara;A1009919940;7500-Analista de BI;04-12-85; 35 ;F;09-02-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;4
+Samuel;A1009919980;8000-Analista de BI;07-04-88; 33 ;M;14-02-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Enzo Gabriel;A1009919990;7500-Analista de BI;22-10-92; 28 ;M;20-04-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+João Miguel;A1009920000;7500-Analista de BI;29-06-94; 26 ;M;20-04-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Henrique;A1009919920;11150-Gerente de TI;01-09-77; 43 ;M;09-06-19;;Ativo;dpt4;Feria de contratación;Dentro de lo esperado;5
+Cecília;A1112030816;14300-Director de TI;28-08-84; 36 ;F;03-10-13;;Ativo;dpt4;Recomendación empleados;Arriba;5
+Eloá;A1009919950;12100-Analista de datos;20-11-77; 43 ;F;31-12-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Isadora;A1105025718;7480-Analista de soporte de TI;19-02-89; 32 ;F;29-03-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Fernando;A1003018246;8800-Analista de soporte de TI;10-07-91; 29 ;F;30-04-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Murilo;A1406068403;7810-Analista de datos;06-04-93; 28 ;M;10-10-17;;Ativo;dpt4;Feria de contratación;Arriba;4
+Emanuelly;A1108027853;9405-Analista de datos;15-09-89; 31 ;F;10-10-17;;Ativo;dpt4;Recomendación empleados;Arriba;5
+Ana Júlia;A1407068885;8701-Analista de datos;09-11-86; 34 ;F;15-02-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;5
+Pietro;A1203032255;9284-Analista de datos;25-08-91; 29 ;M;29-03-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Felipe;A808010278;6644-Analista de datos;01-08-75; 45 ;M;30-04-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;3
+Ana Luiza;A1110029732;6908-Analista de datos;23-02-84; 37 ;F;29-03-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;3
+João Pedro;A1192991000;14300-Gerente de TI;06-05-85; 36 ;M;14-04-14;;Ativo;dpt4;Feria de contratación;Arriba;5
+Isaac;A1106026933;13640-Gerente de TI;03-05-78; 43 ;M;20-01-16;;Ativo;dpt4;Feria de contratación;Dentro de lo esperado;5
+Daniel;A1011022863;13860-Gerente de TI;09-05-91; 30 ;M;14-02-15;;Ativo;dpt4;Sitio web de empleo;Abajo de lo esperado;3
+Anthony;A1101023754;14080-Gerente de TI;06-09-75; 45 ;M;30-04-17;;Ativo;dpt4;Feria de contratación;Arriba;5
+Leonardo;A1301052902;6378-Analista de soporte de TI;08-05-90; 31 ;M;09-05-15;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Yasmin;A1501072093;6908-Analista de soporte de TI;06-06-73; 47 ;F;04-01-13;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;4
+Maria Alice;A602000312;5720-Analista de soporte de TI;09-05-93; 28 ;F;20-01-14;;Ativo;dpt4;Feria de contratación;Arriba;4
+Isabelly;A1203032263;6048-Analista de soporte de TI;02-12-78; 42 ;F;05-10-14;;Ativo;dpt4;Feria de contratación;Dentro de lo esperado;3
+Davi Lucca;A1212052023;9900-Analista de soporte de TI;30-06-93; 27 ;M;30-04-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Bryan;A1102024173;9240-Analista de soporte de TI;23-11-94; 26 ;M;29-03-18;;Ativo;dpt4;Feria de contratación;Dentro de lo esperado;5
+Lavínia;A1101023540;8140-Analista de soporte de TI;17-07-93; 27 ;F;30-04-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;4
+Francisco;A1988299991;8580-Analista de soporte de TI;15-04-86; 35 ;F;30-04-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;4
+Eduardo;A1012023013;9460-Ingeniero de software;16-06-92; 28 ;M;29-03-18;;Ativo;dpt4;Sitio web de empleo;Abajo de lo esperado;3
+Sarah;A1001956578;5940-Ingeniero de software;02-04-84; 37 ;F;15-02-18;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Elisa;A906014183;10340-Ingeniero de software;13-04-86; 35 ;F;29-09-17;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;3
+Victor;A1411071506;10802-Ingeniero de software;30-03-74; 47 ;M;29-03-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;4
+Cristiane;A1009919930;10000-Analista de BI;12-06-92; 28 ;F;09-02-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Luiz Otávio M.;A1009919960;10500-Analista de BI;24-04-75; 46 ;M;01-02-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Carlos Eduardo M.;A1009919970;10500-Analista de BI;06-08-86; 34 ;M;14-02-19;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;4
+Cristiani;A1107027358;10472-Ingeniero de software;22-05-84; 36 ;F;10-10-17;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;3
+Cristina C.;A1101023577;12320-Ingeniero de software;02-05-92; 29 ;F;10-11-16;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;4
+Celia B.;A1203032498;12566-Ingeniero de software;05-05-84; 37 ;F;01-09-15;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Keity C.;A1303054625;12212-Ingeniero de software;09-07-92; 28 ;F;10-11-16;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;5
+Natasha P.;A1012023185;10835-Ingeniero de software;23-07-91; 29 ;F;11-05-15;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+José M.;A1201031324;10560-Ingeniero de software;03-06-88; 32 ;M;06-07-17;;Ativo;dpt4;Página Web compañía;Arriba;5
+Marcelo H.;A1001644719;5940-Gerente de TI;21-11-71; 49 ;M;14-08-14;;Ativo;dpt4;Sitio web de empleo;Dentro de lo esperado;3
+Rovena Souza;A1201031308;7689-Contador II;14-04-84; 37 ;F;30-04-12;;Ativo;dpt3;Feria de contratación;Dentro de lo esperado;3
+Ingrid G.;A1307060188;7689-Contador II;02-04-92; 29 ;F;15-02-18;;Ativo;dpt3;Feria de contratación;Dentro de lo esperado;4
+Ernilda J.;A1010022337;13486-Gerente de TI;05-06-91; 29 ;F;30-06-19;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;5
+Leticia Barbosa;A1411071312;11902-Ingeniero de software;16-01-57; 54 ;F;10-10-17;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;5
+Bernardo S.;A1108028108;12364-Ingeniero de software;22-04-91; 30 ;M;10-10-17;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;5
+Marcos de F.;A904013591;11836-Ingeniero de software;31-08-88; 32 ;M;30-06-19;;Ativo;dpt4;Feria de contratación;Dentro de lo esperado;4
+Mario Andradde;A1308060959;11660-Ingeniero de software;08-09-70; 50 ;M;10-10-17;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;3
+Jessica Almeida;A1301052347;12144-Ingeniero de software;04-02-83; 38 ;F;29-03-18;;Ativo;dpt4;Recomendación empleados;Dentro de lo esperado;4
