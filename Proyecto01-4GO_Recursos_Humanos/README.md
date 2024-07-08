@@ -1,4 +1,4 @@
-# Mi primer informe en Power BI
+# Mi primer informe en Power BI - 4GO
 
 ## Explicación
 El tablero de Recursos Humanos proporciona información sobre el personal contratado, los empleados activos, los despedidos y la rotación de personal por departamento, ciudad y género.
