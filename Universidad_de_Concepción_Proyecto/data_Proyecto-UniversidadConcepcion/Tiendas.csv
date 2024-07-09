@@ -1,0 +1,311 @@
+StoreKey;GeographyKey;StoreType;StoreName;EmployeeCount;SellingAreaSize;Tienda;Ciudad;Ubicación Fisica;Categoria Tamaño Tienda
+1;693;Store;Contoso Seattle No.1 Store;17;462;Contoso Seattle No.1 ;Seattle;Seattle, United States, North America;Pequeña
+2;693;Store;Contoso Seattle No.2 Store;25;700;Contoso Seattle No.2 ;Seattle;Seattle, United States, North America;Mediana
+3;856;Store;Contoso Kennewick Store;26;680;Contoso Kennewick ;Kennewick;Kennewick, United States, North America;Mediana
+4;424;Store;Contoso Bellevue Store;19;455;Contoso Bellevue ;Bellevue;Bellevue, United States, North America;Pequeña
+5;677;Store;Contoso Redmond Store;33;560;Contoso Redmond ;Redmond;Redmond, United States, North America;Mediana
+6;575;Store;Contoso Yakima Store;47;1125;Contoso Yakima ;Yakima;Yakima, United States, North America;Grande
+7;838;Store;Contoso Granger Store;22;500;Contoso Granger ;Granger;Granger, United States, North America;Pequeña
+8;935;Store;Contoso Sunnyside Store;17;460;Contoso Sunnyside ;Sunnyside;Sunnyside, United States, North America;Pequeña
+9;941;Store;Contoso Toppenish Store;25;700;Contoso Toppenish ;Toppenish;Toppenish, United States, North America;Mediana
+10;947;Store;Contoso Wapato Store;25;700;Contoso Wapato ;Wapato;Wapato, United States, North America;Mediana
+11;813;Store;Contoso Cle Elum Store;26;680;Contoso Cle Elum ;Cle Elum;Cle Elum, United States, North America;Mediana
+12;893;Store;Contoso North Bend Store;19;455;Contoso North Bend ;North Bend;North Bend, United States, North America;Pequeña
+13;930;Store;Contoso Snoqualmie Store;33;560;Contoso Snoqualmie ;Snoqualmie;Snoqualmie, United States, North America;Mediana
+14;825;Store;Contoso Fall City Store;47;1125;Contoso Fall City ;Fall City;Fall City, United States, North America;Grande
+15;678;Store;Contoso Renton Store;22;500;Contoso Renton ;Renton;Renton, United States, North America;Pequeña
+16;627;Store;Contoso Everett Store;17;462;Contoso Everett ;Everett;Everett, United States, North America;Pequeña
+17;551;Store;Contoso Spokane Store;25;700;Contoso Spokane ;Spokane;Spokane, United States, North America;Mediana
+18;944;Store;Contoso Veradale Store;26;680;Contoso Veradale ;Veradale;Veradale, United States, North America;Mediana
+19;812;Store;Contoso Cheney Store;19;455;Contoso Cheney ;Cheney;Cheney, United States, North America;Pequeña
+20;824;Store;Contoso Englewood Store;33;560;Contoso Englewood ;Englewood;Englewood, United States, North America;Mediana
+21;950;Store;Contoso Wheat Ridge Store;47;1125;Contoso Wheat Ridge ;Wheat Ridge;Wheat Ridge, United States, North America;Grande
+22;571;Store;Contoso Westminster Store;22;500;Contoso Westminster ;Westminster;Westminster, Canada, North America;Pequeña
+23;836;Store;Contoso Grand Junction Store;17;460;Contoso Grand Junction ;Grand Junction;Grand Junction, United States, North America;Pequeña
+24;887;Store;Contoso New Castle Store;25;700;Contoso New Castle ;New Castle;New Castle, United States, North America;Mediana
+25;839;Store;Contoso Greeley  No.1 Store;25;700;Contoso Greeley  No.1 ;Greeley;Greeley, United States, North America;Mediana
+26;867;Store;Contoso Loveland Store;26;680;Contoso Loveland ;Loveland;Loveland, United States, North America;Mediana
+27;859;Store;Contoso Lafayette Store;19;455;Contoso Lafayette ;Lafayette;Lafayette, United States, North America;Pequeña
+28;809;Store;Contoso Castle Rock Store;33;560;Contoso Castle Rock ;Castle Rock;Castle Rock, United States, North America;Mediana
+29;927;Store;Contoso Sedalia Store;47;1125;Contoso Sedalia ;Sedalia;Sedalia, United States, North America;Grande
+30;829;Store;Contoso Fort Collins Store;22;500;Contoso Fort Collins ;Fort Collins;Fort Collins, United States, North America;Pequeña
+31;839;Store;Contoso Greeley No.2 Store;17;462;Contoso Greeley No.2 ;Greeley;Greeley, United States, North America;Pequeña
+32;877;Store;Contoso Milliken Store;25;700;Contoso Milliken ;Milliken;Milliken, United States, North America;Mediana
+33;799;Store;Contoso Berthoud Store;26;680;Contoso Berthoud ;Berthoud;Berthoud, United States, North America;Mediana
+34;818;Store;Contoso Denver No.1 Store;26;680;Contoso Denver No.1 ;Denver;Denver, United States, North America;Mediana
+35;818;Store;Contoso Denver No.2 Store;19;455;Contoso Denver No.2 ;Denver;Denver, United States, North America;Pequeña
+36;818;Store;Contoso Denver No.3 Store;33;560;Contoso Denver No.3 ;Denver;Denver, United States, North America;Mediana
+37;803;Store;Contoso Boulder Store;47;1125;Contoso Boulder ;Boulder;Boulder, United States, North America;Grande
+38;940;Store;Contoso Thornton Store;22;500;Contoso Thornton ;Thornton;Thornton, United States, North America;Pequeña
+39;865;Store;Contoso Littleton Store;17;462;Contoso Littleton ;Littleton;Littleton, United States, North America;Pequeña
+40;790;Store;Contoso Aurora Store;25;700;Contoso Aurora ;Aurora;Aurora, United States, North America;Mediana
+41;904;Store;Contoso Parker Store;26;680;Contoso Parker ;Parker;Parker, United States, North America;Mediana
+42;840;Store;Contoso Green Bay Store;19;455;Contoso Green Bay ;Green Bay;Green Bay, United States, North America;Pequeña
+43;786;Store;Contoso Appleton Store;33;560;Contoso Appleton ;Appleton;Appleton, United States, North America;Mediana
+44;874;Store;Contoso Menasha Store;47;1125;Contoso Menasha ;Menasha;Menasha, United States, North America;Grande
+45;901;Store;Contoso Oshkosh Store;22;500;Contoso Oshkosh ;Oshkosh;Oshkosh, United States, North America;Pequeña
+46;827;Store;Contoso Fond du Lac Store;17;460;Contoso Fond du Lac ;Fond du Lac;Fond du Lac, United States, North America;Pequeña
+47;878;Store;Contoso Milwaukee No.1 Store;25;700;Contoso Milwaukee No.1 ;Milwaukee;Milwaukee, United States, North America;Mediana
+48;878;Store;Contoso Milwaukee No.2 Store;25;700;Contoso Milwaukee No.2 ;Milwaukee;Milwaukee, United States, North America;Mediana
+49;878;Store;Contoso Milwaukee No.3 Store;26;680;Contoso Milwaukee No.3 ;Milwaukee;Milwaukee, United States, North America;Mediana
+50;949;Store;Contoso Waukesha No.1 Store;19;455;Contoso Waukesha No.1 ;Waukesha;Waukesha, United States, North America;Pequeña
+51;918;Store;Contoso Racine No.1 Store;33;560;Contoso Racine No.1 ;Racine;Racine, United States, North America;Mediana
+52;806;Store;Contoso Burlington Store;47;1125;Contoso Burlington ;Burlington;Burlington, United States, North America;Grande
+53;821;Store;Contoso East Troy Store;22;500;Contoso East Troy ;East Troy;East Troy, United States, North America;Pequeña
+54;949;Store;Contoso Waukesha No.2 Store;17;462;Contoso Waukesha No.2 ;Waukesha;Waukesha, United States, North America;Pequeña
+55;835;Store;Contoso Germantown Store;25;700;Contoso Germantown ;Germantown;Germantown, United States, North America;Mediana
+56;835;Store;Contoso Germantown Store;25;700;Contoso Germantown ;Germantown;Germantown, United States, North America;Mediana
+57;913;Store;Contoso Port Washington Store;26;680;Contoso Port Washington ;Port Washington;Port Washington, United States, North America;Mediana
+58;928;Store;Contoso Sheboygan Store;19;455;Contoso Sheboygan ;Sheboygan;Sheboygan, United States, North America;Pequeña
+59;871;Store;Contoso Manitowoc Store;33;560;Contoso Manitowoc ;Manitowoc;Manitowoc, United States, North America;Mediana
+60;870;Store;Contoso Madison Store;47;1125;Contoso Madison ;Madison;Madison, United States, North America;Grande
+61;898;Store;Contoso Oregon Store;22;500;Contoso Oregon ;Oregon;Oregon, United States, North America;Pequeña
+62;934;Store;Contoso Stoughton Store;17;462;Contoso Stoughton ;Stoughton;Stoughton, United States, North America;Pequeña
+63;822;Store;Contoso Edgerton Store;25;700;Contoso Edgerton ;Edgerton;Edgerton, United States, North America;Mediana
+64;828;Store;Contoso Fort Atkinson Store;26;680;Contoso Fort Atkinson ;Fort Atkinson;Fort Atkinson, United States, North America;Mediana
+65;918;Store;Contoso Racine No.2 Store;19;455;Contoso Racine No.2 ;Racine;Racine, United States, North America;Pequeña
+66;849;Store;Contoso Houston No.1 Store;33;560;Contoso Houston No.1 ;Houston;Houston, United States, North America;Mediana
+67;849;Store;Contoso Houston No.2 Store;47;1125;Contoso Houston No.2 ;Houston;Houston, United States, North America;Grande
+68;849;Store;Contoso Houston No.3 Store;22;500;Contoso Houston No.3 ;Houston;Houston, United States, North America;Pequeña
+69;849;Store;Contoso Houston No.4 Store;17;460;Contoso Houston No.4 ;Houston;Houston, United States, North America;Pequeña
+70;876;Store;Contoso Midland Store;25;700;Contoso Midland ;Midland;Midland, United States, North America;Mediana
+71;924;Store;Contoso Russellville Store;25;700;Contoso Russellville ;Russellville;Russellville, United States, North America;Mediana
+72;879;Store;Contoso Minden Store;26;680;Contoso Minden ;Minden;Minden, United States, North America;Mediana
+73;929;Store;Contoso Shreveport Store;19;455;Contoso Shreveport ;Shreveport;Shreveport, United States, North America;Pequeña
+74;872;Store;Contoso Marshall Store;33;560;Contoso Marshall ;Marshall;Marshall, United States, North America;Mediana
+75;866;Store;Contoso Longview Store;47;1125;Contoso Longview ;Longview;Longview, United States, North America;Grande
+76;798;Store;Contoso Beaumont No.1 Store;22;500;Contoso Beaumont No.1 ;Beaumont;Beaumont, United States, North America;Pequeña
+77;897;Store;Contoso Orange Store;17;462;Contoso Orange ;Orange;Orange, United States, North America;Pequeña
+78;798;Store;Contoso Beaumont No.2 Store;25;700;Contoso Beaumont No.2 ;Beaumont;Beaumont, United States, North America;Mediana
+79;579;Store;Contoso Baytown Store;26;680;Contoso Baytown ;Baytown;Baytown, United States, North America;Mediana
+80;858;Store;Contoso La Porte Store;26;680;Contoso La Porte ;La Porte;La Porte, United States, North America;Mediana
+81;793;Store;Contoso Bacliff Store;19;455;Contoso Bacliff ;Bacliff;Bacliff, United States, North America;Pequeña
+82;939;Store;Contoso Texas City Store;33;560;Contoso Texas City ;Texas City;Texas City, United States, North America;Mediana
+83;906;Store;Contoso Pasadena Store;47;1125;Contoso Pasadena ;Pasadena;Pasadena, United States, North America;Grande
+84;851;Store;Contoso Humble Store;22;500;Contoso Humble ;Humble;Humble, United States, North America;Pequeña
+85;933;Store;Contoso Spring Store;17;462;Contoso Spring ;Spring;Spring, United States, North America;Pequeña
+86;791;Store;Contoso Austin Store;25;700;Contoso Austin ;Austin;Austin, United States, North America;Mediana
+87;925;Store;Contoso San Antonio Store;26;680;Contoso San Antonio ;San Antonio;San Antonio, United States, North America;Mediana
+88;453;Store;Contoso Cedar Park Store;19;455;Contoso Cedar Park ;Cedar Park;Cedar Park, United States, North America;Pequeña
+89;923;Store;Contoso Round Rock Store;33;560;Contoso Round Rock ;Round Rock;Round Rock, United States, North America;Mediana
+90;815;Store;Contoso Dallas Store;47;1125;Contoso Dallas ;Dallas;Dallas, United States, North America;Grande
+91;834;Store;Contoso Georgetown Store;22;500;Contoso Georgetown ;Georgetown;Georgetown, United States, North America;Pequeña
+92;845;Store;Contoso Hillsboro Store;17;460;Contoso Hillsboro ;Hillsboro;Hillsboro, United States, North America;Pequeña
+93;787;Store;Contoso Arlington Store;25;700;Contoso Arlington ;Arlington;Arlington, United States, North America;Mediana
+94;837;Store;Contoso Grand Prairie Store;25;700;Contoso Grand Prairie ;Grand Prairie;Grand Prairie, United States, North America;Mediana
+95;819;Store;Contoso Desoto Store;26;680;Contoso Desoto ;Desoto;Desoto, United States, North America;Mediana
+96;919;Store;Contoso Richardson Store;19;455;Contoso Richardson ;Richardson;Richardson, United States, North America;Pequeña
+97;863;Store;Contoso Lewisville Store;33;560;Contoso Lewisville ;Lewisville;Lewisville, United States, North America;Mediana
+98;817;Store;Contoso Denton Store;47;1125;Contoso Denton ;Denton;Denton, United States, North America;Grande
+99;831;Store;Contoso Fort Worth Store;22;500;Contoso Fort Worth ;Fort Worth;Fort Worth, United States, North America;Pequeña
+100;910;Store;Contoso Plano Store;17;462;Contoso Plano ;Plano;Plano, United States, North America;Pequeña
+101;875;Store;Contoso Miami No.1 Store;17;462;Contoso Miami No.1 ;Miami;Miami, United States, North America;Pequeña
+102;875;Store;Contoso Miami No.2 Store;25;700;Contoso Miami No.2 ;Miami;Miami, United States, North America;Mediana
+103;853;Store;Contoso Jacksonville Store;26;680;Contoso Jacksonville ;Jacksonville;Jacksonville, United States, North America;Mediana
+104;937;Store;Contoso Tallahassee No.1 Store;19;455;Contoso Tallahassee No.1 ;Tallahassee;Tallahassee, United States, North America;Pequeña
+105;937;Store;Contoso Tallahassee No.2 Store;33;560;Contoso Tallahassee No.2 ;Tallahassee;Tallahassee, United States, North America;Mediana
+106;937;Store;Contoso Tallahassee No.2 Store;33;560;Contoso Tallahassee No.2 ;Tallahassee;Tallahassee, United States, North America;Mediana
+107;926;Store;Contoso Sebring Store;22;500;Contoso Sebring ;Sebring;Sebring, United States, North America;Pequeña
+108;860;Store;Contoso Lakeland Store;17;460;Contoso Lakeland ;Lakeland;Lakeland, United States, North America;Pequeña
+109;830;Store;Contoso Fort Lauderdale Store;25;700;Contoso Fort Lauderdale ;Fort Lauderdale;Fort Lauderdale, United States, North America;Mediana
+110;899;Store;Contoso Orlando Store;25;700;Contoso Orlando ;Orlando;Orlando, United States, North America;Mediana
+111;938;Store;Contoso Tampa Store;26;680;Contoso Tampa ;Tampa;Tampa, United States, North America;Mediana
+112;857;Store;Contoso Key West Store;19;455;Contoso Key West ;Key West;Key West, United States, North America;Pequeña
+113;807;Store;Contoso Cape Canaveral Store;33;560;Contoso Cape Canaveral ;Cape Canaveral;Cape Canaveral, United States, North America;Mediana
+114;782;Store;Contoso Albany Store;47;1125;Contoso Albany ;Albany;Albany, United States, North America;Grande
+115;890;Store;Contoso New York No.1 Store;22;500;Contoso New York No.1 ;New York;New York, United States, North America;Pequeña
+116;922;Store;Contoso Rochester No.1 Store;17;462;Contoso Rochester No.1 ;Rochester;Rochester, United States, North America;Pequeña
+117;890;Store;Contoso New York No.2 Store;25;700;Contoso New York No.2 ;New York;New York, United States, North America;Mediana
+118;936;Store;Contoso Syracuse Store;26;680;Contoso Syracuse ;Syracuse;Syracuse, United States, North America;Mediana
+119;805;Store;Contoso Buffalo Store;19;455;Contoso Buffalo ;Buffalo;Buffalo, United States, North America;Pequeña
+120;911;Store;Contoso Plattsburgh Store;33;560;Contoso Plattsburgh ;Plattsburgh;Plattsburgh, United States, North America;Mediana
+121;804;Store;Contoso Brooklyn Store;47;1125;Contoso Brooklyn ;Brooklyn;Brooklyn, United States, North America;Grande
+122;902;Store;Contoso Oswego Store;22;500;Contoso Oswego ;Oswego;Oswego, United States, North America;Pequeña
+123;852;Store;Contoso Ithaca Store;17;460;Contoso Ithaca ;Ithaca;Ithaca, United States, North America;Pequeña
+124;922;Store;Contoso Rochester No.2 Store;25;700;Contoso Rochester No.2 ;Rochester;Rochester, United States, North America;Mediana
+125;916;Store;Contoso Queens Store;25;700;Contoso Queens ;Queens;Queens, United States, North America;Mediana
+126;823;Store;Contoso Elmira Store;26;680;Contoso Elmira ;Elmira;Elmira, United States, North America;Mediana
+127;912;Store;Contoso Poestenkill Store;19;455;Contoso Poestenkill ;Poestenkill;Poestenkill, United States, North America;Pequeña
+128;943;Store;Contoso Trenton No.1 Store;33;560;Contoso Trenton No.1 ;Trenton;Trenton, United States, North America;Mediana
+129;943;Store;Contoso Trenton No.2 Store;47;1125;Contoso Trenton No.2 ;Trenton;Trenton, United States, North America;Grande
+130;891;Store;Contoso Newark No.1 Store;22;500;Contoso Newark No.1 ;Newark;Newark, United States, North America;Pequeña
+131;891;Store;Contoso Newark No.2 Store;17;462;Contoso Newark No.2 ;Newark;Newark, United States, North America;Pequeña
+132;854;Store;Contoso Jersey City Store;25;700;Contoso Jersey City ;Jersey City;Jersey City, United States, North America;Mediana
+133;908;Store;Contoso Paterson Store;26;680;Contoso Paterson ;Paterson;Paterson, United States, North America;Mediana
+134;814;Store;Contoso Clifton Store;26;680;Contoso Clifton ;Clifton;Clifton, United States, North America;Mediana
+135;820;Store;Contoso East Orange Store;19;455;Contoso East Orange ;East Orange;East Orange, United States, North America;Pequeña
+136;907;Store;Contoso Passaic Store;33;560;Contoso Passaic ;Passaic;Passaic, United States, North America;Mediana
+137;797;Store;Contoso Bayonne Store;47;1125;Contoso Bayonne ;Bayonne;Bayonne, United States, North America;Grande
+138;945;Store;Contoso Vineland Store;22;500;Contoso Vineland ;Vineland;Vineland, United States, North America;Pequeña
+139;886;Store;Contoso New Brunswick Store;17;462;Contoso New Brunswick ;New Brunswick;New Brunswick, United States, North America;Pequeña
+140;842;Store;Contoso Hackensack Store;25;700;Contoso Hackensack ;Hackensack;Hackensack, United States, North America;Mediana
+141;788;Store;Contoso Atlantic City Store;26;680;Contoso Atlantic City ;Atlantic City;Atlantic City, United States, North America;Mediana
+142;880;Store;Contoso Montclair Store;19;455;Contoso Montclair ;Montclair;Montclair, United States, North America;Pequeña
+143;847;Store;Contoso Hoboken Store;33;560;Contoso Hoboken ;Hoboken;Hoboken, United States, North America;Mediana
+144;882;Store;Contoso Morristown Store;47;1125;Contoso Morristown ;Morristown;Morristown, United States, North America;Grande
+145;808;Store;Contoso Cape May Store;22;500;Contoso Cape May ;Cape May;Cape May, United States, North America;Pequeña
+146;802;Store;Contoso Boston Store;17;460;Contoso Boston ;Boston;Boston, United States, North America;Pequeña
+147;952;Store;Contoso Worcester No.1 Store;25;700;Contoso Worcester No.1 ;Worcester;Worcester, United States, North America;Mediana
+148;952;Store;Contoso Worcester No.2 Store;25;700;Contoso Worcester No.2 ;Worcester;Worcester, United States, North America;Mediana
+149;885;Store;Contoso New Bedford Store;26;680;Contoso New Bedford ;New Bedford;New Bedford, United States, North America;Mediana
+150;789;Store;Contoso Attleboro Store;19;455;Contoso Attleboro ;Attleboro;Attleboro, United States, North America;Pequeña
+151;868;Store;Contoso Lowell Store;33;560;Contoso Lowell ;Lowell;Lowell, United States, North America;Mediana
+152;861;Store;Contoso Leominster Store;47;1125;Contoso Leominster ;Leominster;Leominster, United States, North America;Grande
+153;846;Store;Contoso Hingham Store;22;500;Contoso Hingham ;Hingham;Hingham, United States, North America;Pequeña
+154;917;Store;Contoso Quincy Store;17;462;Contoso Quincy ;Quincy;Quincy, United States, North America;Pequeña
+155;832;Store;Contoso Framingham Store;25;700;Contoso Framingham ;Framingham;Framingham, United States, North America;Mediana
+156;449;Store;Contoso Cambridge Store;26;680;Contoso Cambridge ;Cambridge;Cambridge, United Kingdom, Europe;Mediana
+157;931;Store;Contoso Somerville Store;26;680;Contoso Somerville ;Somerville;Somerville, United States, North America;Mediana
+158;844;Store;Contoso Haverhill Store;19;455;Contoso Haverhill ;Haverhill;Haverhill, United States, North America;Pequeña
+159;869;Store;Contoso Lynn Store;33;560;Contoso Lynn ;Lynn;Lynn, United States, North America;Mediana
+160;895;Store;Contoso Northampton Store;47;1125;Contoso Northampton ;Northampton;Northampton, United States, North America;Grande
+161;848;Store;Contoso Holyoke Store;22;500;Contoso Holyoke ;Holyoke;Holyoke, United States, North America;Pequeña
+162;909;Store;Contoso Pittsfield Store;17;462;Contoso Pittsfield ;Pittsfield;Pittsfield, United States, North America;Pequeña
+163;826;Store;Contoso Falmouth Store;25;700;Contoso Falmouth ;Falmouth;Falmouth, United States, North America;Mediana
+164;914;Store;Contoso Provincetown Store;26;680;Contoso Provincetown ;Provincetown;Provincetown, United States, North America;Mediana
+165;883;Store;Contoso Nantucket Store;19;455;Contoso Nantucket ;Nantucket;Nantucket, United States, North America;Pequeña
+166;795;Store;Contoso Bangor Store;33;560;Contoso Bangor ;Bangor;Bangor, United States, North America;Mediana
+167;796;Store;Contoso Bar Harbor Store;47;1125;Contoso Bar Harbor ;Bar Harbor;Bar Harbor, United States, North America;Grande
+168;855;Store;Contoso Kennebunkport Store;22;500;Contoso Kennebunkport ;Kennebunkport;Kennebunkport, United States, North America;Pequeña
+169;862;Store;Contoso Lewiston Store;17;460;Contoso Lewiston ;Lewiston;Lewiston, United States, North America;Pequeña
+170;900;Store;Contoso Orono Store;25;700;Contoso Orono ;Orono;Orono, United States, North America;Mediana
+171;932;Store;Contoso South Portland Store;25;700;Contoso South Portland ;South Portland;South Portland, United States, North America;Mediana
+172;843;Store;Contoso Hartford Store;26;680;Contoso Hartford ;Hartford;Hartford, United States, North America;Mediana
+173;801;Store;Contoso Bridgeport Store;19;455;Contoso Bridgeport ;Bridgeport;Bridgeport, United States, North America;Pequeña
+174;948;Store;Contoso Waterbury Store;33;560;Contoso Waterbury ;Waterbury;Waterbury, United States, North America;Mediana
+175;896;Store;Contoso Old Saybrook Store;47;1125;Contoso Old Saybrook ;Old Saybrook;Old Saybrook, United States, North America;Grande
+176;816;Store;Contoso Darien Store;22;500;Contoso Darien ;Darien;Darien, United States, North America;Pequeña
+177;888;Store;Contoso New Haven Store;17;462;Contoso New Haven ;New Haven;New Haven, United States, North America;Pequeña
+178;864;Store;Contoso Litchfield County Store;25;700;Contoso Litchfield County ;Litchfield County;Litchfield County, United States, North America;Mediana
+179;889;Store;Contoso New London Store;26;680;Contoso New London ;New London;New London, United States, North America;Mediana
+180;892;Store;Contoso Norfolk Store;26;680;Contoso Norfolk ;Norfolk;Norfolk, United States, North America;Mediana
+181;946;Store;Contoso Virginia Beach Store;19;455;Contoso Virginia Beach ;Virginia Beach;Virginia Beach, United States, North America;Pequeña
+182;951;Store;Contoso Winchester Store;33;560;Contoso Winchester ;Winchester;Winchester, United States, North America;Mediana
+183;784;Store;Contoso Anchorage Store;47;1125;Contoso Anchorage ;Anchorage;Anchorage, United States, North America;Grande
+184;783;Store;Contoso Alexandria Store;22;500;Contoso Alexandria ;Alexandria;Alexandria, United States, North America;Pequeña
+185;921;Store;Contoso Roanoke Store;17;462;Contoso Roanoke ;Roanoke;Roanoke, United States, North America;Pequeña
+186;811;Store;Contoso Charlottesville Store;25;700;Contoso Charlottesville ;Charlottesville;Charlottesville, United States, North America;Mediana
+187;833;Store;Contoso Fredericksburg Store;26;680;Contoso Fredericksburg ;Fredericksburg;Fredericksburg, United States, North America;Mediana
+188;873;Store;Contoso Martinsville Store;19;455;Contoso Martinsville ;Martinsville;Martinsville, United States, North America;Pequeña
+189;841;Store;Contoso Greenville Store;33;560;Contoso Greenville ;Greenville;Greenville, United States, North America;Mediana
+190;810;Store;Contoso Charleston Store;47;1125;Contoso Charleston ;Charleston;Charleston, United States, North America;Grande
+191;785;Store;Contoso Annapolis Store;22;500;Contoso Annapolis ;Annapolis;Annapolis, United States, North America;Pequeña
+192;794;Store;Contoso Baltimore Store;17;460;Contoso Baltimore ;Baltimore;Baltimore, United States, North America;Pequeña
+193;850;Store;Contoso Howard Store;25;700;Contoso Howard ;Howard;Howard, United States, North America;Mediana
+194;920;Store;Contoso Ridgely Store;25;700;Contoso Ridgely ;Ridgely;Ridgely, United States, North America;Mediana
+195;915;Store;Contoso Queen Anne's County Store;26;680;Contoso Queen Anne's County ;Queen Anne's County;Queen Anne's County, United States, North America;Mediana
+196;905;Store;Contoso Parkville Store;19;455;Contoso Parkville ;Parkville;Parkville, United States, North America;Pequeña
+197;792;Store;Contoso Back River Store;33;560;Contoso Back River ;Back River;Back River, United States, North America;Mediana
+198;835;Store;Contoso North Harford Store;47;1125;Contoso North Harford ;North Harford;North Harford, United States, North America;Grande
+201;506;Store;Contoso London Store;17;462;Contoso London ;London;London, United Kingdom, Europe;Pequeña
+202;748;Store;Contoso Edinburgh Store;25;700;Contoso Edinburgh ;Edinburgh;Edinburgh, United Kingdom, Europe;Mediana
+203;751;Store;Contoso Glasgow Store;26;680;Contoso Glasgow ;Glasgow;Glasgow, United Kingdom, Europe;Mediana
+204;576;Store;Contoso York Store;78;680;Contoso York ;York;York, United Kingdom, Europe;Mediana
+205;742;Store;Contoso Carlisle Store;23;680;Contoso Carlisle ;Carlisle;Carlisle, United Kingdom, Europe;Mediana
+206;761;Store;Contoso Manchester Store;11;680;Contoso Manchester ;Manchester;Manchester, United Kingdom, Europe;Mediana
+207;755;Store;Contoso Lancashire Store;36;680;Contoso Lancashire ;Lancashire;Lancashire, United Kingdom, Europe;Mediana
+208;781;Store;Contoso West Yorkshire Store;90;680;Contoso West Yorkshire ;West Yorkshire;West Yorkshire, United Kingdom, Europe;Mediana
+209;738;Store;Contoso Baildon Store;32;680;Contoso Baildon ;Baildon;Baildon, United Kingdom, Europe;Mediana
+210;743;Store;Contoso Cheshire Store;;680;Contoso Cheshire ;Cheshire;Cheshire, United Kingdom, Europe;Mediana
+211;774;Store;Contoso Stockport Store;34;680;Contoso Stockport ;Stockport;Stockport, United Kingdom, Europe;Mediana
+212;651;Store;Contoso Liverpool Store;64;680;Contoso Liverpool ;Liverpool;Liverpool, United Kingdom, Europe;Mediana
+213;753;Store;Contoso Knotty Ash Store;24;680;Contoso Knotty Ash ;Knotty Ash;Knotty Ash, United Kingdom, Europe;Mediana
+214;501;Store;Contoso Leeds Store;25;680;Contoso Leeds ;Leeds;Leeds, United Kingdom, Europe;Mediana
+215;529;Store;Contoso Paris Store;12;680;Contoso Paris ;Paris;Paris, France, Europe;Mediana
+216;762;Store;Contoso Marseille Store;13;680;Contoso Marseille ;Marseille;Marseille, France, Europe;Mediana
+217;759;Store;Contoso Lyon Store;15;680;Contoso Lyon ;Lyon;Lyon, France, Europe;Mediana
+218;777;Store;Contoso Toulouse Store;23;680;Contoso Toulouse ;Toulouse;Toulouse, France, Europe;Mediana
+219;767;Store;Contoso Nice Store;32;680;Contoso Nice ;Nice;Nice, France, Europe;Mediana
+220;766;Store;Contoso Nantes Store;11;680;Contoso Nantes ;Nantes;Nantes, France, Europe;Mediana
+221;775;Store;Contoso Strasbourg Store;10;630;Contoso Strasbourg ;Strasbourg;Strasbourg, France, Europe;Mediana
+222;771;Store;Contoso Roma Store;43;490;Contoso Roma ;Roma;Roma, Italy, Europe;Pequeña
+223;779;Store;Contoso Venezia Store;11;500;Contoso Venezia ;Venezia;Venezia, Italy, Europe;Pequeña
+224;749;Store;Contoso Firenze Store;45;500;Contoso Firenze ;Firenze;Firenze, Italy, Europe;Pequeña
+225;776;Store;Contoso Torino Store;24;500;Contoso Torino ;Torino;Torino, Italy, Europe;Pequeña
+226;763;Store;Contoso Milan Store;23;500;Contoso Milan ;Milan;Milan, Italy, Europe;Pequeña
+227;884;Store;Contoso Naples Store;13;500;Contoso Naples ;Naples;Naples, United States, North America;Pequeña
+228;586;Store;Contoso Berlin Store;13;500;Contoso Berlin ;Berlin;Berlin, Germany, Europe;Pequeña
+229;586;Store;Contoso Berlin Store;13;500;Contoso Berlin ;Berlin;Berlin, Germany, Europe;Pequeña
+230;754;Store;Contoso koln No.2 Store;25;500;Contoso koln No.2 ;koln;koln, Germany, Europe;Pequeña
+231;752;Store;Contoso Hofheim Store;25;500;Contoso Hofheim ;Hofheim;Hofheim, Germany, Europe;Pequeña
+232;754;Store;Contoso koln No.1 Store;35;500;Contoso koln No.1 ;koln;koln, Germany, Europe;Pequeña
+233;756;Store;Contoso Landstuhl Store;21;500;Contoso Landstuhl ;Landstuhl;Landstuhl, Germany, Europe;Pequeña
+234;747;Store;Contoso Dusseldorf Store;24;500;Contoso Dusseldorf ;Dusseldorf;Dusseldorf, Germany, Europe;Pequeña
+235;770;Store;Contoso Ramstein Store;15;500;Contoso Ramstein ;Ramstein;Ramstein, Germany, Europe;Pequeña
+236;739;Store;Contoso Baumholder Store;28;500;Contoso Baumholder ;Baumholder;Baumholder, Germany, Europe;Pequeña
+237;750;Store;Contoso Giebelstadt Store;15;500;Contoso Giebelstadt ;Giebelstadt;Giebelstadt, Germany, Europe;Pequeña
+238;769;Store;Contoso obamberg Store;29;500;Contoso obamberg ;obamberg;obamberg, Germany, Europe;Pequeña
+239;765;Store;Contoso Munich Store;18;500;Contoso Munich ;Munich;Munich, Germany, Europe;Pequeña
+240;736;Store;Contoso Amsterdam Store;26;680;Contoso Amsterdam ;Amsterdam;Amsterdam, the Netherlands, Europe;Mediana
+241;745;Store;Contoso Copenhagen Store;25;680;Contoso Copenhagen ;Copenhagen;Copenhagen, Denmark, Europe;Mediana
+242;773;Store;Contoso Stockholm Store;33;680;Contoso Stockholm ;Stockholm;Stockholm, Sweden, Europe;Mediana
+243;760;Store;Contoso Madrid Store;35;680;Contoso Madrid ;Madrid;Madrid, Spain, Europe;Mediana
+244;758;Store;Contoso Ljubljana Store;36;680;Contoso Ljubljana ;Ljubljana;Ljubljana, Slovenia, Europe;Mediana
+245;741;Store;Contoso Bucharest Store;25;680;Contoso Bucharest ;Bucharest;Bucharest, Romania, Europe;Mediana
+246;740;Store;Contoso Berne Store;53;680;Contoso Berne ;Berne;Berne, Switzerland, Europe;Mediana
+247;780;Store;Contoso Warsaw Store;15;680;Contoso Warsaw ;Warsaw;Warsaw, Poland, Europe;Mediana
+248;778;Store;Contoso Valletta Store;42;680;Contoso Valletta ;Valletta;Valletta, Malta, Europe;Mediana
+249;746;Store;Contoso Dublin Store;55;680;Contoso Dublin ;Dublin;Dublin, Ireland, Europe;Mediana
+250;737;Store;Contoso Athens Store;15;680;Contoso Athens ;Athens;Athens, Greece, Europe;Mediana
+251;728;Store;Contoso Singapore Store;27;480;Contoso Singapore ;Singapore;Singapore, Singapore, Asia;Pequeña
+252;713;Store;Contoso Canberra Store;28;480;Contoso Canberra ;Canberra;Canberra, Australia, Oceania;Pequeña
+253;558;Store;Contoso Sydney No.1 Store;20;480;Contoso Sydney No.1 ;Sydney;Sydney, Australia, Oceania;Pequeña
+254;734;Store;Contoso Yerevan Store;15;480;Contoso Yerevan ;Yerevan;Yerevan, Armenia, Asia;Pequeña
+255;723;Store;Contoso New Delhi Store;29;480;Contoso New Delhi ;New Delhi;New Delhi, India, Asia;Pequeña
+256;721;Store;Contoso Mumbai Store;35;480;Contoso Mumbai ;Mumbai;Mumbai, India, Asia;Pequeña
+257;718;Store;Contoso Kolkata Store;35;480;Contoso Kolkata ;Kolkata;Kolkata, India, Asia;Pequeña
+258;731;Store;Contoso Thimphu No.1 Store;35;480;Contoso Thimphu No.1 ;Thimphu;Thimphu, Bhutan, Asia;Pequeña
+259;716;Store;Contoso Hong Kong No.1 Store;35;480;Contoso Hong Kong No.1 ;Hong Kong;Hong Kong, China, Asia;Pequeña
+260;730;Store;Contoso Tehran No.1 Store;35;480;Contoso Tehran No.1 ;Tehran;Tehran, Iran, Asia;Pequeña
+261;714;Store;Contoso Damascus No.1 Store;35;480;Contoso Damascus No.1 ;Damascus;Damascus, Syria, Asia;Pequeña
+262;709;Store;Contoso Bangkok No.1 Store;62;480;Contoso Bangkok No.1 ;Bangkok;Bangkok, Thailand, Asia;Pequeña
+263;764;Store;Contoso Moscow  No.1 Store;65;480;Contoso Moscow  No.1 ;Moscow;Moscow, Russia, Europe;Pequeña
+264;708;Store;Contoso Ashgabat No.1 Store;68;480;Contoso Ashgabat No.1 ;Ashgabat;Ashgabat, Turkmenistan, Asia;Pequeña
+265;717;Store;Contoso Islamabad No.1 Store;71;480;Contoso Islamabad No.1 ;Islamabad;Islamabad, Pakistan, Asia;Pequeña
+266;717;Store;Contoso Islamabad No.1 Store;71;480;Contoso Islamabad No.1 ;Islamabad;Islamabad, Pakistan, Asia;Pequeña
+267;732;Store;Contoso Tokyo No.1 Store;68;480;Contoso Tokyo No.1 ;Tokyo;Tokyo, Japan, Asia;Pequeña
+268;732;Store;Contoso Tokyo No.2 Store;68;480;Contoso Tokyo No.2 ;Tokyo;Tokyo, Japan, Asia;Pequeña
+269;735;Store;Contoso Yokohama Store;77;480;Contoso Yokohama ;Yokohama;Yokohama, Japan, Asia;Pequeña
+270;724;Store;Contoso Osaka No.1 Store;80;480;Contoso Osaka No.1 ;Osaka;Osaka, Japan, Asia;Pequeña
+271;722;Store;Contoso Nagoya Store;50;480;Contoso Nagoya ;Nagoya;Nagoya, Japan, Asia;Pequeña
+272;725;Store;Contoso Sapporo Store;50;480;Contoso Sapporo ;Sapporo;Sapporo, Japan, Asia;Pequeña
+273;719;Store;Contoso Kyoto Store;50;480;Contoso Kyoto ;Kyoto;Kyoto, Japan, Asia;Pequeña
+274;726;Store;Contoso Seoul Store;50;480;Contoso Seoul ;Seoul;Seoul, South Korea, Asia;Pequeña
+275;712;Store;Contoso Busan Store;50;480;Contoso Busan ;Busan;Busan, South Korea, Asia;Pequeña
+276;711;Store;Contoso Bishkek Store;50;480;Contoso Bishkek ;Bishkek;Bishkek, Kyrgyzstan, Asia;Pequeña
+277;727;Store;Contoso Shanghai No.1 Store;95;480;Contoso Shanghai No.1 ;Shanghai;Shanghai, China, Asia;Pequeña
+278;733;Store;Contoso Urumqi Store;50;480;Contoso Urumqi ;Urumqi;Urumqi, China, Asia;Pequeña
+279;710;Store;Contoso Beijing Store;86;480;Contoso Beijing ;Beijing;Beijing, China, Asia;Pequeña
+280;715;Store;Contoso Guangzhou Store;131;480;Contoso Guangzhou ;Guangzhou;Guangzhou, China, Asia;Pequeña
+281;727;Store;Contoso Shanghai No.2 Store;95;480;Contoso Shanghai No.2 ;Shanghai;Shanghai, China, Asia;Pequeña
+282;903;Store;Contoso Ottawa No.1 Store;95;480;Contoso Ottawa No.1 ;Ottawa;Ottawa, Canada, North America;Pequeña
+283;903;Store;Contoso Ottawa No.2 Store;95;480;Contoso Ottawa No.2 ;Ottawa;Ottawa, Canada, North America;Pequeña
+284;942;Store;Contoso Toronto No.1 Store;95;480;Contoso Toronto No.1 ;Toronto;Toronto, Canada, North America;Pequeña
+285;942;Store;Contoso Toronto No.2 Store;95;480;Contoso Toronto No.2 ;Toronto;Toronto, Canada, North America;Pequeña
+286;942;Store;Contoso Toronto No.3 Store;95;480;Contoso Toronto No.3 ;Toronto;Toronto, Canada, North America;Pequeña
+287;881;Store;Contoso Montreal No.1 Store;95;480;Contoso Montreal No.1 ;Montreal;Montreal, Canada, North America;Pequeña
+288;881;Store;Contoso Montreal No.2 Store;95;480;Contoso Montreal No.2 ;Montreal;Montreal, Canada, North America;Pequeña
+289;562;Store;Contoso Vancouver  No.1 Store;95;480;Contoso Vancouver  No.1 ;Vancouver;Vancouver, Canada, North America;Pequeña
+290;562;Store;Contoso Vancouver  No.2 Store;95;480;Contoso Vancouver  No.2 ;Vancouver;Vancouver, Canada, North America;Pequeña
+291;598;Store;Contoso Calgary  Store;95;480;Contoso Calgary  ;Calgary;Calgary, Canada, North America;Pequeña
+292;731;Store;Contoso Thimphu No.2 Store;95;480;Contoso Thimphu No.2 ;Thimphu;Thimphu, Bhutan, Asia;Pequeña
+293;716;Store;Contoso Hong Kong No.2 Store;95;480;Contoso Hong Kong No.2 ;Hong Kong;Hong Kong, China, Asia;Pequeña
+294;730;Store;Contoso Tehran No.2 Store;95;480;Contoso Tehran No.2 ;Tehran;Tehran, Iran, Asia;Pequeña
+295;714;Store;Contoso Damascus No.2 Store;95;480;Contoso Damascus No.2 ;Damascus;Damascus, Syria, Asia;Pequeña
+296;709;Store;Contoso Bangkok No.2 Store;95;480;Contoso Bangkok No.2 ;Bangkok;Bangkok, Thailand, Asia;Pequeña
+297;764;Store;Contoso Moscow  No.2 Store;95;480;Contoso Moscow  No.2 ;Moscow;Moscow, Russia, Europe;Pequeña
+298;708;Store;Contoso Ashgabat  No.2 Store;95;480;Contoso Ashgabat  No.2 ;Ashgabat;Ashgabat, Turkmenistan, Asia;Pequeña
+299;717;Store;Contoso Islamabad  No.2 Store;95;480;Contoso Islamabad  No.2 ;Islamabad;Islamabad, Pakistan, Asia;Pequeña
+300;558;Store;Contoso Sydney  No.2 Store;95;480;Contoso Sydney  No.2 ;Sydney;Sydney, Australia, Oceania;Pequeña
+301;724;Store;Contoso Osaka No.2 Store;95;480;Contoso Osaka No.2 ;Osaka;Osaka, Japan, Asia;Pequeña
+302;729;Store;Contoso Taipei  Store;95;480;Contoso Taipei  ;Taipei;Taipei, Taiwan, Asia;Pequeña
+303;757;Store;Contoso Lisbon Store;95;480;Contoso Lisbon ;Lisbon;Lisbon, Portugal, Europe;Pequeña
+304;772;Store;Contoso Saint Petersburg Store;95;480;Contoso Saint Petersburg ;Saint Petersburg;Saint Petersburg, Russia, Europe;Pequeña
+305;768;Store;Contoso Nizhny Novgorod Store;95;480;Contoso Nizhny Novgorod ;Nizhny Novgorod;Nizhny Novgorod, Russia, Europe;Pequeña
+199;800;Online;Contoso North America Online Store;325;500;Contoso North America Online ;North America Online;;Pequeña
+200;894;Catalog;Contoso Catalog Store;120;462;Contoso Catalog ;Catalog;;Pequeña
+306;586;Online;Contoso Europe Online Store;7;1000;Contoso Europe Online ;Europe Online;;Grande
+307;710;Online;Contoso Asia Online Store;8;93800;Contoso Asia Online ;Asia Online;;Grande
+308;693;Reseller;Contoso North America Reseller;15;450;Contoso North America Reseller;North America Reseller;;Pequeña
+309;529;Reseller;Contoso Europe Reseller;12;551;Contoso Europe Reseller;Europe Reseller;;Mediana
+310;710;Reseller;Contoso Asia Reseller;17;93800;Contoso Asia Reseller;Asia Reseller;;Grande
