@@ -11,6 +11,7 @@ Bienvenido a mi repositorio de GitHub para mi portafolio de Power BI. Encontrar�
   - Entiende el propósito de cada visualización y cómo interpretar los datos presentados.
 
 - **🎨 Diseños de Dashboards**:
-Descubre diversos diseños de dashboards que destacan por su estética y funcionalidad.
-Aprende diferentes enfoques de diseño para aplicar en tus propios proyectos de Power BI.
-Este repositorio es ideal para aquellos interesados en el análisis de datos y la visualización interactiva. ¡Explora, aprende e inspírate con estos ejemplos de Power BI! 🚀
+  - Descubre diversos diseños de dashboards que destacan por su estética y funcionalidad.
+  - Aprende diferentes enfoques de diseño para aplicar en tus propios proyectos de Power BI.
+
+Este repositorio es ideal para aquellos interesados que comienzan en el análisis de datos y la visualización interactiva. ¡Explora, aprende e inspírate con estos ejemplos de Power BI! 🚀
